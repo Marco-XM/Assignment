@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+}
+
+.head {
+    color: white;
+    background-color: rgb(179, 255, 255);
+    font-size: 3vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    text-shadow: -4px -1px 0px rgb(225, 255, 252);
+    padding-left: 4%;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: left;
+    max-width: fit-content;
+}
+
+.head p {
+    font-size: 2vw;
+    margin-top: 25vmin;
+    max-width: fit-content;
+    font-weight: 700;
+}
+
+.container_1 .background img {
+    position: relative;
+    border-radius: 16;
+    bottom: 20vmin;
+    right: 6vmin;
+    float: right;
+    clear: right;
+    width: 25vw;
+    height: auto;
+    max-width: 100%;
+    font-size: 88%;
+    box-shadow: -13px 16px 0px 4px rgb(0, 0, 0);
+}
+
+img {
+    border-radius: 16px;
+}
+
+.para_0 {
+    color: white;
+    background-color: rgb(179, 255, 255);
+    inset-block: auto;
+    border-style: hidden;
+    background-size: cover;
+    font-size: 2.7vw;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-shadow: -4px 6px 0px rgb(0, 0, 0); */
+    color: rgb(255, 255, 255);
+    padding-left: 0;
+    text-align: left;
+    overflow: hidden;
+    /* block-size: 60%; */
+    /* text-shadow: -5px 2px 0px rgb(0, 0, 0); */
+}
+
+.para_0 {
+    position: relative;
+}
+
+.para_0 video {
+    /* position: relative; */
+    z-index: 0;
+}
+
+#myVideo {
+    width: 100%;
+}
+
+
+
+.overlay {
+    position: absolute;
+    float: right;
+    top:0;
+    left:0;
+    z-index:1;
+    padding-left: 2%;
+    margin-top: 15%;
+    text-align: left;
+}
+
+.para_1 {
+    color: white;
+    background-color: rgb(179, 255, 255);
+    inset-block: auto;
+    border-style: hidden;
+    background-size: cover;
+    font-size: 2.0vw;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-shadow: -4px 6px 0px rgb(0, 0, 0); */
+    color: rgb(255, 255, 255);
+    padding-left: 0;
+    overflow: hidden;
+    /* block-size: 60%; */
+    /* text-shadow: -5px 2px 0px rgb(0, 0, 0); */
+}
+
+.para_1 {
+    position: relative;
+}
+
+.para_1 video {
+    /* position: relative; */
+    z-index: 0;
+}
+
+#myVideo-1 {
+    width: 100%;
+}
+
+.overlay-1 {
+    padding: 5%;
+    text-align: left;
+    position: absolute;
+    float: right;
+    top: 0;
+    left: 0;
+    z-index:1;
+    padding-left: 2%;
+    margin-top: 15%;
+}
+
+.para_2 {
+    color: white;
+    /* block-size: 60%; */
+    height: 55vw;
+    background-color: rgb(179, 255, 255);
+    inset-block: auto;
+    border-style: hidden;
+    background-size: cover;
+    font-size: 3vw;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: -4px 6px 0px rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    overflow: hidden;
+}
+
+.para_2 p {
+    margin-top: 12%;
+}
+
+
+.para_3 {
+    color: white;
+    /* block-size: 60%; */
+    background-color: rgb(179, 255, 255);
+    inset-block: auto;
+    border-style: hidden;
+    background-size: cover;
+    font-size: 2vw;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: -4px 6px 0px rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding-right: 7%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.para_3 p {
+    padding: 400px 0px 400px 100px;
+    text-shadow: -4px -1px 0px rgb(225, 255, 252);
+}
+
